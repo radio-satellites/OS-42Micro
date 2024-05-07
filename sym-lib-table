@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32CAM")(type "KiCad")(uri "${KIPRJMOD}/ESP32-CAM.kicad_sym")(options "")(descr ""))
+  (lib (name "GPS")(type "KiCad")(uri "${KIPRJMOD}/GPS02.kicad_sym")(options "")(descr ""))
+  (lib (name "LoRa1278")(type "KiCad")(uri "${KIPRJMOD}/LoRa1278.kicad_sym")(options "")(descr ""))
+  (lib (name "Voltage Reg")(type "KiCad")(uri "${KIPRJMOD}/MCP1825S-3302E_DB.kicad_sym")(options "")(descr ""))
+  (lib (name "GPSANT")(type "KiCad")(uri "${KIPRJMOD}/W3010.kicad_sym")(options "")(descr ""))
+  (lib (name "SMACONN")(type "KiCad")(uri "${KIPRJMOD}/SMA_CONNECTOR.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,14 @@
+###COMPONENTS FOR OS-42-MINI. 
+NOTE: All part numbers are digikey part numbers (where listed)
+
+ESP32CAM
+MCP1825S-3302E/DB 
+GPS02-UBX
+LoRa1278-C1
+Pulse Electronics W3010 GPS antenna
+2x 1uF capacitors (regulator decoupling) CL21F105ZBFNNNE
+2x 0.1uF capacitors for high frequency decoupling CC0805KRX7R9BB104
+1x low frequency decoupling CL21A106KOQNNNE
+1x 100k resistor RC2010JK-07100KL
+1x 47k resistor RC2010JK-0747KL
+
