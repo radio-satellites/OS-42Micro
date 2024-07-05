@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "OS42-components")(type "KiCad")(uri "/home/ve3svf/OS42Mini")(options "")(descr ""))
+  (lib (name "OS42-components")(type "KiCad")(uri "/home/ve3svf/OS42Micro")(options "")(descr ""))
 )

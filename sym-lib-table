@@ -6,4 +6,7 @@
   (lib (name "Voltage Reg")(type "KiCad")(uri "${KIPRJMOD}/MCP1825S-3302E_DB.kicad_sym")(options "")(descr ""))
   (lib (name "GPSANT")(type "KiCad")(uri "${KIPRJMOD}/W3010.kicad_sym")(options "")(descr ""))
   (lib (name "SMACONN")(type "KiCad")(uri "${KIPRJMOD}/SMA_CONNECTOR.kicad_sym")(options "")(descr ""))
+  (lib (name "328p")(type "KiCad")(uri "${KIPRJMOD}/ATMEGA328P-AU.kicad_sym")(options "")(descr ""))
+  (lib (name "ISP")(type "KiCad")(uri "${KIPRJMOD}/AVR-ISP.kicad_sym")(options "")(descr ""))
+  (lib (name "ANT")(type "KiCad")(uri "${KIPRJMOD}/H2U14W1H1A0400.kicad_sym")(options "")(descr ""))
 )
